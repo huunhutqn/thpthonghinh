@@ -1,0 +1,55 @@
+
+/* css cho lider của ngọc */
+div#slider-content .display-container{position:relative}
+div#slider-content .content{margin:auto}
+
+div#slider-content .center{text-align:center!important}
+
+div#slider-content .section{margin-top:10px!important;margin-bottom:10px!important}
+div#slider-content .large{font-size:13px!important}
+div#slider-content .text-white,.hover-text-white:hover{color:#fff!important}
+div#slider-content .display-bottommiddle{position:absolute;left:50%;bottom:5px; top:10; transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)}
+
+div#slider-content .left{float:left!important}
+div#slider-content .right{float:right!important}
+div#slider-content .hover-text-khaki:hover{color:#b4aa50!important}
+
+div#slider-content .badge{background-color:#cdcdcd;color:#fff;display:inline-block;padding-left:2px;padding-right:2px;text-align:center}
+div#slider-content .badge{border-radius:50%}
+div#slider-content .border{border:1px solid #fff!important}
+div#slider-content .transparent:hover{background-color:#01A9DB!important}
+div#slider-content .hover-blue:hover{color:#fff!important;background-color:#000!important}
+
+div#slider-content .opacity-min{opacity:0.75}
+div#slider-content .padding-16{padding-bottom:3%!important}
+div#slider-content .black{color:#fff!important;background-color:#000!important}
+div#slider-content .container:after,.container{/*content:"";*/display:table;clear:both}
+div#slider-content .display-container:hover .display-hover{display:block}
+div#slider-content .display-container:hover span.display-hover{display:inline-block} div#slider-content .display-hover{display:none}
+div#slider-content .container:after,.container{float:left;width:1221px;height: 416px;}
+div#slider-content .container{padding:0.5em 0 0em 0}
+
+div#slider-content .button{border:none;display:inline-block;/*padding:18px 16px;*/vertical-align:middle;
+	overflow:hidden;text-decoration:none;color:#000;
+	background-color:#01A9DB;text-align:center;cursor:pointer;white-space:nowrap}
+div#slider-content .button{-webkit-touch-callout:none;-webkit-user-select:none;
+	-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;
+	user-select:none}   
+div#slider-content .button:disabled{cursor:not-allowed;opacity:0.3}
+div#slider-content p {
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+div#slider-content .button:first-child:hover > .button:first-child{background-color:#ccc;color:#000}
+div#slider-content .button{width:auto;text-align:left;padding:5px 2px}
+div#slider-content .button{white-space:normal}
+div#slider-content .button:hover{color:#01A9DB!important;background-color:#fff!important}
+div#slider-content .round{border-radius:4px}
+div#slider-content .blue,.hover-blue:hover{color:#fff!important;background-color:#2196F3!important}
+
+div#slider-content .myfont {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+/*.mySlides {display:none}*/
+div#slider-content .left, .right, .badge {cursor:pointer}
+div#slider-content .badge {height:5px;width:5px;padding:0}

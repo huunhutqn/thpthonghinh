@@ -1,0 +1,4 @@
+== Changelog ==
+
+= 1.0.0, Sept 23, 2016 =
+* Initial release
